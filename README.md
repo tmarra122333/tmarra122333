@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **tmarra122333/tmarra122333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: by email...
 - 😄 Pronouns: hello world...
 - ⚡ Fun fact: I sing and play guitar...
--->
+
